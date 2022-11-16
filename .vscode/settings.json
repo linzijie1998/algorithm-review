@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tpl": "gohtml",
+        "*.tmpl": "gohtml",
+        "unordered_map": "cpp",
+        "ostream": "cpp"
+    }
+}
